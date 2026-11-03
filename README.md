@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jfmartinsfrederci)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jfmartinsfrederi)](https://github.com/stats-organization/github-stats-extended)
