@@ -28,4 +28,4 @@ I'm a Software Engineering student at **IFSP São Carlos, Brazil**, interested i
 
 ## Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/jfmartinsfrederi) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:frederico.fredercio1980@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jfmartinsfrederi/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:frederico.fredercio1980@gmail.com)
